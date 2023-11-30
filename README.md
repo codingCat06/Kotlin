@@ -1,17 +1,17 @@
 # Kotlin
 ## TedPermission
 
-###1. build.gradle
+### 1. build.gradle
 
     dependencies {implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'}
     
-###2. MainActivity.kt
+### 2. MainActivity.kt
     
     import com.gun0912.tedpermission.PermissionBuilder
     import com.gun0912.tedpermission.PermissionListener
     import com.gun0912.tedpermission.normal.TedPermissionimport android.Manifest
 
-###3. Function
+### 3. Function
 
 
     class MainActivity : AppCompatActivity() {
