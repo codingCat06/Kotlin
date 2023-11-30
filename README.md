@@ -12,7 +12,8 @@
     
     import com.gun0912.tedpermission.PermissionBuilder
     import com.gun0912.tedpermission.PermissionListener
-    import com.gun0912.tedpermission.normal.TedPermissionimport android.Manifest
+    import com.gun0912.tedpermission.normal.TedPermission
+    import android.Manifest
 
 ### 3. Function
 
@@ -52,6 +53,4 @@
                 .setPermissions(Manifest.permission.BLUETOOTH, Manifest.permission.READ_CALENDAR, Manifest.permission.BATTERY_STATS)
                 //요구하고자 하는 Permission...
                 .check()
-                //이건 그냥 써야하는 듯...
-        }
-    }
+     음
