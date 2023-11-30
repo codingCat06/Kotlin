@@ -56,6 +56,6 @@
      음
 
 ### 4. Manifest
- Manifest에서 아래 코드를 통해 사용한다고 선언할 수 있음.
+#### Manifest에서 아래 코드를 통해 사용한다고 선언할 수 있음.
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
 
