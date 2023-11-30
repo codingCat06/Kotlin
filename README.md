@@ -54,6 +54,7 @@
                 //요구하고자 하는 Permission...
                 .check()
          }
+    }
 
 ### 4. Manifest
 #### Manifest에서 아래 코드를 통해 사용한다고 선언할 수 있음.
