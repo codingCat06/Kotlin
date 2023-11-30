@@ -3,7 +3,10 @@
 
 ### 1. build.gradle
 
-    dependencies {implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'}
+    dependencies {
+        implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'
+        ...
+    }
     
 ### 2. MainActivity.kt
     
